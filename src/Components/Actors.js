@@ -14,7 +14,6 @@ class Actors extends Component {
             <button onclick="myFunctionSortName()" className="button">Sorted by name</button>
             <button onclick="myFunctionSortPopularity()" className="button">Sorted by popularity</button>
             
-            
          
            </div>
            //TODO place in the table from Card.js

@@ -1,7 +1,6 @@
 import React from "react";
 import Card from './Data/imdb.json';
 
-
 const Card = ([picture, name, popularity, action]) => {
 
 return <table>
