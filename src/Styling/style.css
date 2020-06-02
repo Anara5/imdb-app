@@ -1,0 +1,35 @@
+.App{
+    text-align: center;
+    height: 20vh;
+    display: flex;
+    align-items: stre;
+    justify-content: center;
+    background-position: center center;
+}
+
+.button {
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    width: auto;
+    height: 30px;
+    border: none;
+    font-family: inherit;
+    font-size: 1rem;
+    border-radius: 8px;
+    position: relative;
+    background: #b9b9b9;
+    margin-right: 8px;
+}
+
+table {
+    size: initial;
+    border: none;
+    margin-top: 30px;
+    width: 100%;
+    align-content: center;
+    
+}
+th {
+    width: 300px;
+}
